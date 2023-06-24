@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 <br /> 
 
--->
+[website]: https://bappykhan48954.github.io/
+[linkedin]: https://www.linkedin.com/in/ahammad-ullah-bappy-5b9769181/
+[facebook]: https://www.facebook.com/bappykhan954/
+
