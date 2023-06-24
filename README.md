@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/ahammad-ullah-bappy-5b9769181/
 [facebook]: https://www.facebook.com/bappykhan954/
 
+## Languages
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
