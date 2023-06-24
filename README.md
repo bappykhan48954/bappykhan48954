@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computational Material Science and Quantum mechanics.
 - 👯 I’m looking to collaborate on a research project related to Machine Learning and computational material science.
 - 🤔 I’m looking for help with my learning in computational material science.
-- 💬 Ask me about ...
 - 📫 How to reach me: 1811006@mme.buet.ac.bd
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
