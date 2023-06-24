@@ -10,4 +10,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my learning in computational material science.
 - 📫 How to reach me: 1811006@mme.buet.ac.bd
 
+## Connect with me:
+
+[<img align="left" alt="bappykhan48954" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+ [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="Ahammad Ullah | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br /> 
+
 -->
